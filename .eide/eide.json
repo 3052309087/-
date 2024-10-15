@@ -1,5 +1,5 @@
 {
-  "name": "test4",
+  "name": "test5",
   "type": "ARM",
   "dependenceList": [],
   "srcDirs": [
@@ -11,7 +11,7 @@
   "packDir": ".pack/Keil/STM32F1xx_DFP.2.3.0",
   "miscInfo": {
     "lastBuildTime": 1608695075742,
-    "uid": "9b96ee481c145033fb6977505bf80679"
+    "uid": "40fe9c1904e03d3645fae220b659d62d"
   },
   "virtualFolder": {
     "name": "<virtual_root>",
